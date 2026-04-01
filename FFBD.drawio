@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="-YybrP7sqMX1X-gNzNVj" name="Page-1">
-    <mxGraphModel dx="525" dy="256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="974" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -523,7 +523,7 @@
         <mxCell id="yoqG5PP9TfcCYhkr530O-72" edge="1" parent="1" source="yoqG5PP9TfcCYhkr530O-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yoqG5PP9TfcCYhkr530O-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yoqG5PP9TfcCYhkr530O-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Prelaunch Check" vertex="1">
+        <mxCell id="yoqG5PP9TfcCYhkr530O-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pre-launch Check" vertex="1">
           <mxGeometry height="80" width="120" x="47" y="2300" as="geometry" />
         </mxCell>
         <mxCell id="yoqG5PP9TfcCYhkr530O-78" edge="1" parent="1" source="yoqG5PP9TfcCYhkr530O-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yoqG5PP9TfcCYhkr530O-77">
