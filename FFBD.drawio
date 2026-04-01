@@ -380,12 +380,6 @@
         <mxCell id="yoqG5PP9TfcCYhkr530O-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Where am I going?" vertex="1">
           <mxGeometry height="80" width="120" x="60" y="1790" as="geometry" />
         </mxCell>
-        <mxCell id="CI2IJx3IsVkejZiUiMQG-53" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="720" y="1810" as="sourcePoint" />
-            <mxPoint x="800" y="1810" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yoqG5PP9TfcCYhkr530O-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3" vertex="1">
           <mxGeometry height="20" width="120" x="260" y="2070" as="geometry" />
         </mxCell>
@@ -437,44 +431,20 @@
             <mxPoint x="400" y="2410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yoqG5PP9TfcCYhkr530O-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3.2" vertex="1">
-          <mxGeometry height="20" width="120" x="690" y="1860" as="geometry" />
-        </mxCell>
         <mxCell id="CI2IJx3IsVkejZiUiMQG-72" edge="1" parent="1" source="CI2IJx3IsVkejZiUiMQG-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CI2IJx3IsVkejZiUiMQG-74" value="">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yoqG5PP9TfcCYhkr530O-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Send motor control signals to MCUs" vertex="1">
-          <mxGeometry height="80" width="120" x="690" y="1880" as="geometry" />
         </mxCell>
         <mxCell id="CI2IJx3IsVkejZiUiMQG-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2.1.3" vertex="1">
           <mxGeometry height="20" width="120" x="400" y="2360" as="geometry" />
         </mxCell>
-        <mxCell id="yoqG5PP9TfcCYhkr530O-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3.3" vertex="1">
-          <mxGeometry height="20" width="120" x="690" y="2010" as="geometry" />
-        </mxCell>
         <mxCell id="CI2IJx3IsVkejZiUiMQG-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Apply calibration function to determine physical data" vertex="1">
           <mxGeometry height="80" width="120" x="400" y="2380" as="geometry" />
-        </mxCell>
-        <mxCell id="yoqG5PP9TfcCYhkr530O-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Actuate rudder/thrusters" vertex="1">
-          <mxGeometry height="80" width="120" x="690" y="2030" as="geometry" />
         </mxCell>
         <mxCell id="CI2IJx3IsVkejZiUiMQG-76" edge="1" parent="1" source="CI2IJx3IsVkejZiUiMQG-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CI2IJx3IsVkejZiUiMQG-78" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yoqG5PP9TfcCYhkr530O-41" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="749.76" y="1960" as="sourcePoint" />
-            <mxPoint x="749.76" y="2010" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CI2IJx3IsVkejZiUiMQG-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2.1.4" vertex="1">
           <mxGeometry height="20" width="120" x="600" y="2360" as="geometry" />
-        </mxCell>
-        <mxCell id="yoqG5PP9TfcCYhkr530O-42" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="749.76" y="1810" as="sourcePoint" />
-            <mxPoint x="749.76" y="1860" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="yoqG5PP9TfcCYhkr530O-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Based on already knowing where the boat is and how it is (it is not sinking)" vertex="1">
           <mxGeometry height="30" width="140" x="100" y="1690" as="geometry" />
