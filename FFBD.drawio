@@ -345,7 +345,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yoqG5PP9TfcCYhkr530O-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3" vertex="1">
-          <mxGeometry height="20" width="120" x="1030" y="2350" as="geometry" />
+          <mxGeometry height="20" width="120" x="880" y="2500" as="geometry" />
         </mxCell>
         <mxCell id="CI2IJx3IsVkejZiUiMQG-48" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.375;entryDx=0;entryDy=0;entryPerimeter=0;" target="yoqG5PP9TfcCYhkr530O-16" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -353,26 +353,23 @@
             <mxPoint x="400" y="2250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yoqG5PP9TfcCYhkr530O-34" edge="1" parent="1" source="yoqG5PP9TfcCYhkr530O-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="yoqG5PP9TfcCYhkr530O-19" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="yoqG5PP9TfcCYhkr530O-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="120" x="1030" y="2370" as="geometry" />
+        <mxCell id="yoqG5PP9TfcCYhkr530O-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Send signal to bow thruster" vertex="1">
+          <mxGeometry height="80" width="120" x="880" y="2520" as="geometry" />
         </mxCell>
         <mxCell id="yoqG5PP9TfcCYhkr530O-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3.0" vertex="1">
           <mxGeometry height="20" width="120" x="830" y="2200" as="geometry" />
         </mxCell>
         <mxCell id="CI2IJx3IsVkejZiUiMQG-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pathfind based on existing obstacles" vertex="1">
-          <mxGeometry height="80" width="120" x="1030" y="2220" as="geometry" />
+          <mxGeometry height="80" width="120" x="1031" y="2220" as="geometry" />
         </mxCell>
         <mxCell id="yoqG5PP9TfcCYhkr530O-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Where am I going?" vertex="1">
           <mxGeometry height="80" width="120" x="830" y="2220" as="geometry" />
         </mxCell>
         <mxCell id="yoqG5PP9TfcCYhkr530O-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3" vertex="1">
-          <mxGeometry height="20" width="120" x="1030" y="2500" as="geometry" />
+          <mxGeometry height="20" width="120" x="1050" y="2500" as="geometry" />
         </mxCell>
-        <mxCell id="yoqG5PP9TfcCYhkr530O-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="80" width="120" x="1030" y="2520" as="geometry" />
+        <mxCell id="yoqG5PP9TfcCYhkr530O-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Send signal to Propeller" vertex="1">
+          <mxGeometry height="80" width="120" x="1050" y="2520" as="geometry" />
         </mxCell>
         <mxCell id="yoqG5PP9TfcCYhkr530O-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="3" vertex="1">
           <mxGeometry height="20" width="120" x="1230" y="2350" as="geometry" />
@@ -380,7 +377,7 @@
         <mxCell id="CI2IJx3IsVkejZiUiMQG-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2.1.1" vertex="1">
           <mxGeometry height="20" width="120" y="2360" as="geometry" />
         </mxCell>
-        <mxCell id="yoqG5PP9TfcCYhkr530O-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="yoqG5PP9TfcCYhkr530O-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Send signal to Rudder" vertex="1">
           <mxGeometry height="80" width="120" x="1230" y="2370" as="geometry" />
         </mxCell>
         <mxCell id="CI2IJx3IsVkejZiUiMQG-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Receive data from sensors" vertex="1">
