@@ -172,7 +172,7 @@
             <mxPoint x="640" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yoqG5PP9TfcCYhkr530O-5" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Check the version below as it is what we spoke with Dave&lt;/font&gt;">
+        <mxCell id="yoqG5PP9TfcCYhkr530O-5" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Final Version is below&lt;/font&gt;">
           <mxGeometry relative="1" width="80" as="geometry">
             <Array as="points" />
             <mxPoint x="390" y="730" as="sourcePoint" />
