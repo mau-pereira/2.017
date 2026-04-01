@@ -326,7 +326,7 @@
         <mxCell id="CI2IJx3IsVkejZiUiMQG-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Determine any obstacles" vertex="1">
           <mxGeometry height="80" width="120" x="400" y="2220" as="geometry" />
         </mxCell>
-        <mxCell id="yoqG5PP9TfcCYhkr530O-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="yoqG5PP9TfcCYhkr530O-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Determine Kinematics" vertex="1">
           <mxGeometry height="80" width="120" x="260" y="1790" as="geometry" />
         </mxCell>
         <mxCell id="CI2IJx3IsVkejZiUiMQG-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2.0" vertex="1">
