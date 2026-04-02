@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="-YybrP7sqMX1X-gNzNVj" name="Page-1">
-    <mxGraphModel dx="1683" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="746" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -611,6 +611,9 @@
             <mxPoint x="590" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Tfm-JD6x18Tj3pLnv_zF-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#b51a00, #ff8261);" value="1) Leave dock" vertex="1">
+          <mxGeometry height="30" width="60" y="1470" as="geometry" />
+        </mxCell>
         <mxCell id="Gi5ojRYbOjmgsYHGz9rq-36" edge="1" parent="1" source="Gi5ojRYbOjmgsYHGz9rq-16" style="curved=1;endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fillColor=#008a00;strokeColor=#005700;dashed=1;endFill=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
@@ -620,6 +623,9 @@
             <mxPoint x="1160" y="1460" as="sourcePoint" />
             <mxPoint x="960" y="1460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Tfm-JD6x18Tj3pLnv_zF-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#B51A00;" value="2) Circle Buoy 1 (x3)" vertex="1">
+          <mxGeometry height="30" width="90" x="62" y="1610" as="geometry" />
         </mxCell>
         <mxCell id="Gi5ojRYbOjmgsYHGz9rq-37" edge="1" parent="1" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#008a00;strokeColor=#005700;strokeWidth=3;dashed=1;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -631,6 +637,15 @@
             <mxPoint x="970" y="1460" as="sourcePoint" />
             <mxPoint x="330" y="1710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Tfm-JD6x18Tj3pLnv_zF-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3) Figure 8 around buoys (x3)" vertex="1">
+          <mxGeometry height="30" width="90" x="217" y="1615" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfm-JD6x18Tj3pLnv_zF-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4) Dock" vertex="1">
+          <mxGeometry height="30" width="90" x="115" y="1705" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfm-JD6x18Tj3pLnv_zF-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4) Dock" vertex="1">
+          <mxGeometry height="30" width="90" x="457" y="1535" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
